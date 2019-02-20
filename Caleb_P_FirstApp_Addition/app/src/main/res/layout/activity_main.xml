@@ -68,6 +68,7 @@
         android:layout_marginBottom="8dp"
         android:text="Result"
         android:textSize="48sp"
+        android:fontFamily="sans-serif-thin"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
